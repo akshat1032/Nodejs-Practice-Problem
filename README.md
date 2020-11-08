@@ -11,3 +11,10 @@
 ##### 2 -> Read a Number and Display the week day (Sunday, Monday,...)
 ##### 3 -> Read a Number 1, 10, 100, 1000, etc and display unit, ten, hundred,...
 ##### 4 -> Enter 3 numbers and do arithmetic operation and find the one thatis maximum and minimum
+
+##### Selection problem with case statements
+##### 1 -> Read a single digit number and write the number in word
+##### 2 -> Read a Number and Display the week day (Sunday, Monday,...)
+##### 3 -> Read a Number 1, 10, 100, 1000, etc and display unit, ten, hundred,...
+##### 4 -> Take User Inputs and do unit conversion of different Length units
+
