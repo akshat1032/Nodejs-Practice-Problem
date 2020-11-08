@@ -32,4 +32,9 @@
 ##### 3 -> Extend the Flip Coin problem till either Heads or Tails wins 11 times.
 ##### 4 -> A gambler starts with Rs 100 and places Re 1 bet until he/she goes broke
 
+##### Practice problems with functions
+##### 1 -> Find degF or degC based on their Conversion Selection.
+##### 2 -> Function to check if the two numbers are Palindromes
+##### 3 -> Take a number from user and check if the number is a Prime then show that its palindrome is also prime
+
 
