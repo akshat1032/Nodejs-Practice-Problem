@@ -18,3 +18,10 @@
 ##### 3 -> Read a Number 1, 10, 100, 1000, etc and display unit, ten, hundred,...
 ##### 4 -> Take User Inputs and do unit conversion of different Length units
 
+##### Repetition problem with for loop
+##### 1 -> Take a command-line argument n and print a table of the powers of 2 that are less than or equal to 2^n.
+##### 2 -> Take a command-line argument n and print the nth harmonic number.
+##### 3 -> Take a input and determine if the number is a prime.
+##### 4 -> Take a range of number as input and output the Prime Numbers in that range.
+##### 5 -> Compute a factorial of a number taken as input.
+
