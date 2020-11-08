@@ -24,4 +24,12 @@
 ##### 3 -> Take a input and determine if the number is a prime.
 ##### 4 -> Take a range of number as input and output the Prime Numbers in that range.
 ##### 5 -> Compute a factorial of a number taken as input.
+##### 6 -> Compute factors of a number N using prime factorization method.
+
+##### Repetition problems with while loop
+##### 1 -> Take a command-line argument n and print a table of the powers of 2 that are less than or equal to 2^n till 256 is reached.
+##### 2 -> Find the Magic Number
+##### 3 -> Extend the Flip Coin problem till either Heads or Tails wins 11 times.
+##### 4 -> A gambler starts with Rs 100 and places Re 1 bet until he/she goes broke
+
 
