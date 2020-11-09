@@ -37,4 +37,11 @@
 ##### 2 -> Function to check if the two numbers are Palindromes
 ##### 3 -> Take a number from user and check if the number is a Prime then show that its palindrome is also prime
 
+##### Array practice problems
+##### 1 -> Program to find second largest and second smallest numbers without sorting
+##### 2 -> Program to second largest and second smallest numbers with sorting
+##### 3 -> Storing prime factors into an array and displaying the output
+##### 4 -> 
+##### 5 -> Taking a range from 0-100 and finding digits which are repeated twice
+
 
