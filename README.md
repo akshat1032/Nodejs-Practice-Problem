@@ -44,4 +44,8 @@
 ##### 4 -> 
 ##### 5 -> Taking a range from 0-100 and finding digits which are repeated twice
 
+##### Map practice problems
+##### 1 -> Program to roll dice and find the number which reached maximum and minimum times
+##### 2 -> Program to get birth month of 50 individuals and find individuals with same birth month
+
 
